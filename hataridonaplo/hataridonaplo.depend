@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1638978502 source:c:\users\gamer\documents\egyetem\programozas\hataridonaplo\kiiraskezeles.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"econio.h"
+	"listakezeles.h"
+	"debugmalloc.h"
+	"kiiraskezeles.h"
+
+1638731728 c:\users\gamer\documents\egyetem\programozas\hataridonaplo\listakezeles.h
+	<time.h>
+
+1636141070 c:\users\gamer\documents\egyetem\programozas\hataridonaplo\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1638664547 c:\users\gamer\documents\egyetem\programozas\hataridonaplo\kiiraskezeles.h
+	"listakezeles.h"
+
+1638728606 source:c:\users\gamer\documents\egyetem\programozas\hataridonaplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"debugmalloc.h"
+	"fajlkezeles.h"
+	"kiiraskezeles.h"
+	"listakezeles.h"
+
+1638699956 c:\users\gamer\documents\egyetem\programozas\hataridonaplo\fajlkezeles.h
+	"listakezeles.h"
+
+1638797406 source:c:\users\gamer\documents\egyetem\programozas\hataridonaplo\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"fajlkezeles.h"
+	"econio.h"
+
+1638978342 source:c:\users\gamer\documents\egyetem\programozas\hataridonaplo\listakezeles.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"listakezeles.h"
+	"kiiraskezeles.h"
+
+1638728511 source:c:\users\gamer\documents\egyetem\programozas\hataridonaplo\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1638728539 c:\users\gamer\documents\egyetem\programozas\hataridonaplo\econio.h
+	<stdbool.h>
+
